@@ -1,1 +1,11 @@
-
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "Y5RS6GC4ZW.com.makishima.testApp",
+                "paths": ["/deeplink_test/*"]
+            }
+        ]
+    }
+}
