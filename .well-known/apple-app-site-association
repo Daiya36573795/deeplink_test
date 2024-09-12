@@ -1,11 +1,25 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "Y5RS6GC4ZW.com.makishima.testApp",
-                "paths":[ "*" ]
-            }
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "Y5RS6GC4ZW.com.makishima.testApp"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
         ]
-    }
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "Y5RS6GC4ZW.com.makishima.testApp"
+    ]
+  }
 }
